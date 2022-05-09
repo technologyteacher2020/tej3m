@@ -5,3 +5,8 @@
 - 📫 How to reach me ...
 
 # tej3m
+
+# to do
+make a profile readme.md
+move all repos there
+
